@@ -123,20 +123,7 @@ The robot uses:
 
 ---
 
-## Repository Structure
 
-```bash
-Self-Balancing-Robot/
-│
-├── firmware/              # ESP32 source code
-├── hardware/              # Circuit schematics
-├── mechanical/            # STL files for chassis
-├── images/                # Project images/renders
-├── documentation/         # Project report
-└── README.md
-```
-
----
 
 ## Getting Started
 
